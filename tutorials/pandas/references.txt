@@ -1,0 +1,1 @@
+https://github.com/chendaniely/scipy-2017-tutorial-pandas.git
